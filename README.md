@@ -6,3 +6,4 @@
 an open source PHP web application built to record software project details. display tracking statuses, and query project profiles by name
 
 ## Part D: Installation and Configuration Guidelines
+1. Download and install XAMPP Server from the official Apache Friends website.
