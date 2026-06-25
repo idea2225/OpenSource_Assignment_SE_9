@@ -4,3 +4,5 @@
 
 # project description
 an open source PHP web application built to record software project details. display tracking statuses, and query project profiles by name
+
+## Part D: Installation and Configuration Guidelines
