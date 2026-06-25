@@ -10,3 +10,4 @@ an open source PHP web application built to record software project details. dis
 2. Start the Apache web server module directly from your XAMPP Control Panel.
 3. Clone or copy these source files into your local directory root at `C:
 mpp\htdocs\OpenSource_Assignment_SE_9`
+4. Access your dynamic tracking dashboard by visiting: `http://localhost/OpenSource_Assignment_SE_9/` in your web browser.
